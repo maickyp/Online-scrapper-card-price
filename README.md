@@ -25,21 +25,21 @@ Within it has a search engine that allows you to search for specific card and sh
 When you search for a deck at [YGoProDeck], you can get your list in text as shown bellow
 
 >  |- MONSTER CARDS :
-   |- 1x Wandering Gryphon Rider
- |- SPELL CARDS (16 cards):
-   |- 3x Rite of Aramesir
-   |- 3x Virtual World Gate - Qinglong
- |- TRAP CARDS :
-   |- 1x Infinite Impermanence
-   |- 2x Virtual World Gate - Chuche
-   |- 1x Virtual World Gate - Xuanwu
+>   |- 1x Wandering Gryphon Rider
+> |- SPELL CARDS (16 cards):
+>   |- 3x Rite of Aramesir
+>   |- 3x Virtual World Gate - Qinglong
+> |- TRAP CARDS :
+>   |- 1x Infinite Impermanence
+>   |- 2x Virtual World Gate - Chuche
+>   |- 1x Virtual World Gate - Xuanwu
 >
- >|- EXTRA DECK CARDS :
-   |- 1x Ultimaya Tzolkin
-   |- 1x Swordsoul Supreme Sovereign - Chengying
+ > |- EXTRA DECK CARDS :
+>   |- 1x Ultimaya Tzolkin
+>   |- 1x Swordsoul Supreme Sovereign - Chengying
 >
- >|- SIDE DECK CARDS :
-   |- 2x Nibiru, the Primal Being
+> |- SIDE DECK CARDS :
+>  |- 2x Nibiru, the Primal Being
 
 You shall save it in a *.txt file and use it as an input.
 
